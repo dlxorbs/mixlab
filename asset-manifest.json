@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mixlab/static/css/main.73bfa06f.css",
+    "main.js": "/mixlab/static/js/main.f91bd028.js",
+    "static/js/787.a0a085bb.chunk.js": "/mixlab/static/js/787.a0a085bb.chunk.js",
+    "static/media/PretendardVariable.ttf": "/mixlab/static/media/PretendardVariable.c89dc775feed56569658.ttf",
+    "static/media/mainimg.png": "/mixlab/static/media/mainimg.106381155c0b8c914abb.png",
+    "static/media/Liquid.png": "/mixlab/static/media/Liquid.5eb66d399f1defef5c72.png",
+    "static/media/moonhwanlee.png": "/mixlab/static/media/moonhwanlee.05bb3322c04955131445.png",
+    "static/media/hanjongkim.png": "/mixlab/static/media/hanjongkim.8ce41729fa81f43286fa.png",
+    "static/media/F&Q.png": "/mixlab/static/media/F&Q.780e02017441abf82995.png",
+    "static/media/Works1.png": "/mixlab/static/media/Works1.e67dde11b78a7731e302.png",
+    "static/media/Works2.png": "/mixlab/static/media/Works2.30b54a6c9afacb8a1bf4.png",
+    "static/media/Works3.png": "/mixlab/static/media/Works3.f02746988071d93fa761.png",
+    "static/media/Logo.svg": "/mixlab/static/media/Logo.c59965e8f6b30201350f206ac65a8f96.svg",
+    "index.html": "/mixlab/index.html",
+    "static/media/left.svg": "/mixlab/static/media/left.79afdc6a0541cb0f14d7e10273f8ff59.svg",
+    "static/media/plus.svg": "/mixlab/static/media/plus.77d0b1fe90d1e0678837d4e9ca3d0ac8.svg",
+    "static/media/AccordionArrow.svg": "/mixlab/static/media/AccordionArrow.c910a2abd9283f8528a3bb3221c4e31f.svg",
+    "main.73bfa06f.css.map": "/mixlab/static/css/main.73bfa06f.css.map",
+    "main.f91bd028.js.map": "/mixlab/static/js/main.f91bd028.js.map",
+    "787.a0a085bb.chunk.js.map": "/mixlab/static/js/787.a0a085bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73bfa06f.css",
+    "static/js/main.f91bd028.js"
+  ]
+}
