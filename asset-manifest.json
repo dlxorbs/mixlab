@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mixlab/static/css/main.de00645c.css",
+    "main.css": "/mixlab/static/css/main.6390e88a.css",
     "main.js": "/mixlab/static/js/main.28c440c8.js",
     "static/js/787.a0a085bb.chunk.js": "/mixlab/static/js/787.a0a085bb.chunk.js",
     "static/media/PretendardVariable.ttf": "/mixlab/static/media/PretendardVariable.c89dc775feed56569658.ttf",
@@ -17,12 +17,12 @@
     "static/media/left.svg": "/mixlab/static/media/left.79afdc6a0541cb0f14d7e10273f8ff59.svg",
     "static/media/plus.svg": "/mixlab/static/media/plus.77d0b1fe90d1e0678837d4e9ca3d0ac8.svg",
     "static/media/AccordionArrow.svg": "/mixlab/static/media/AccordionArrow.c910a2abd9283f8528a3bb3221c4e31f.svg",
-    "main.de00645c.css.map": "/mixlab/static/css/main.de00645c.css.map",
+    "main.6390e88a.css.map": "/mixlab/static/css/main.6390e88a.css.map",
     "main.28c440c8.js.map": "/mixlab/static/js/main.28c440c8.js.map",
     "787.a0a085bb.chunk.js.map": "/mixlab/static/js/787.a0a085bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de00645c.css",
+    "static/css/main.6390e88a.css",
     "static/js/main.28c440c8.js"
   ]
 }
